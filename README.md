@@ -1,1 +1,2 @@
-# VPC-Gateway-Endpoint-ile-G-venli-ve-cretsiz-S3-Eri-imi
+# VPC-Gateway-Endpoint-ile-Guvenli-ve-ucretsiz-S3-Erisimi
+
