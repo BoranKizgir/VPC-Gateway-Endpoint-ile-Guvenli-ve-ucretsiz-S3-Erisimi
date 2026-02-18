@@ -22,3 +22,12 @@ Bu proje, **hiçbir internet erişimi olmayan** (Internet Gateway veya NAT Gatew
 3. EC2'nin S3'ü okuyabilmesi için gerekli IAM Rolü atandı.
 4. Sunucu interneti olmayan subnet içinde başlatıldı.
 5. VPC konsolundan **S3 Gateway Endpoint** oluşturuldu ve ilgili Rota Tablosuyla ilişkilendirildi.
+
+![](statement_1.png)
+![](statement_2.png)
+![](statement_3.png)
+![](statement_4.png)
+![](statement_5.png)
+![](statement_6.png)
+![](statement_7.png) 
+![](Serverless-Intelligent-Document-Processing.drawio.png)
