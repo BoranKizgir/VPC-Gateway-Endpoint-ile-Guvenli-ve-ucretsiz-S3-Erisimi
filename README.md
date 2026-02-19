@@ -30,4 +30,4 @@ Bu proje, **hiçbir internet erişimi olmayan** (Internet Gateway veya NAT Gatew
 ![](statement_5.png)
 ![](statement_6.png)
 ![](statement_7.png) 
-![](Serverless-Intelligent-Document-Processing.drawio.png)
+![](AWS-VPC-S3-Gateway-Endpoint.drawio.png)
