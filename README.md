@@ -9,7 +9,7 @@ Bu proje, **hiçbir internet erişimi olmayan** (Internet Gateway veya NAT Gatew
 - **Subnet:** Tamamen izole edilmiş Özel Alt Ağ.
 - **Servis:** Amazon S3.
 - **Bağlantı Türü:** VPC Gateway Endpoint (Tür: Gateway).
-- **Güvenlik:** EC2 üzerine tanımlanmış `S3ReadOnlyAccess` IAM Rolü..
+- **Güvenlik:** EC2 üzerine tanımlanmış `S3ReadOnlyAccess` IAM Rolü.
 
 ## Sağladığı Avantajlar
 1. **Maliyet Optimizasyonu:** NAT Gateway kullanımı saatlik ücrete tabidir. Ancak **VPC Gateway Endpoint tamamen ücretsizdir.**
